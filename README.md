@@ -1,5 +1,5 @@
 #  Project Title
-![Github license](https://img.shields.io/badge/license-Mozilla Public License 2.0-blue.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ##  Description
 
