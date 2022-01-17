@@ -1,5 +1,5 @@
 #  Project Title
-![Github license](http://img.shields.io/badge/license-Mozilla Public License 2.0-blue.svg)
+![Github license](https://img.shields.io/badge/license-Mozilla Public License 2.0-blue.svg)
 
 ##  Description
 
