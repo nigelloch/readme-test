@@ -1,6 +1,6 @@
 #  Project Title
 
-[![License: MIT](https://img.shields.io/badge/License-MIT License-yellow.svg)](https://opensource.org/licenses/MIT License)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ##  Description
 
@@ -28,7 +28,7 @@ No testing was performed
 
 ##  License
 
-MIT License
+MIT
 
 ##  Contributors/Resources
 
