@@ -3,38 +3,38 @@
 
 ##  Description
 
-    Default description
+Default description
 
 ##  Table of Contents
-    * [Installation](#installation)
-    * [Usage](#usage)
-    * [Tests](#tests)
-    * [License](#license)
-    * [Contributors/Resources](# ontributors)
-    * [Questions](#questions)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Tests](#tests)
+* [License](#license)
+* [Contributors/Resources](# ontributors)
+* [Questions](#questions)
 
 ##  Installation
 
-    Default installation method
+Default installation method
 
 ##  Usage
 
-    Default application explanation
+Default application explanation
 
 ##  Tests
 
-    No testing was performed
+No testing was performed
 
 ##  License
 
-    Mozilla Public License 2.0
+Mozilla Public License 2.0
 
 ##  Contributors/Resources
 
-    Nigel Loch
+Nigel Loch
 
 ##  Questions
 
-    If there are any questions about this project, please contact me here: <nigelloch@gmail.com>. Thank you!
+If there are any questions about this project, please contact me here: <nigelloch@gmail.com>. Thank you!
 
   
