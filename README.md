@@ -1,5 +1,6 @@
 #  Project Title
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT License-yellow.svg)](https://opensource.org/licenses/MIT License)
 
 ##  Description
 
@@ -27,7 +28,7 @@ No testing was performed
 
 ##  License
 
-Mozilla Public License 2.0
+MIT License
 
 ##  Contributors/Resources
 
@@ -36,5 +37,3 @@ Nigel Loch
 ##  Questions
 
 If there are any questions about this project, please contact me at <nigelloch@gmail.com>. Thank you!
-
-  
