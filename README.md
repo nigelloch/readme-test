@@ -10,7 +10,7 @@ Default description
 * [Usage](#usage)
 * [Tests](#tests)
 * [License](#license)
-* [Contributors/Resources](# ontributors)
+* [Contributors/Resources](#contributors)
 * [Questions](#questions)
 
 ##  Installation
@@ -35,6 +35,6 @@ Nigel Loch
 
 ##  Questions
 
-If there are any questions about this project, please contact me here: <nigelloch@gmail.com>. Thank you!
+If there are any questions about this project, please contact me at <nigelloch@gmail.com>. Thank you!
 
   
